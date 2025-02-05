@@ -1,8 +1,8 @@
-#SQL Queries for Database Analysis
+# SQL Queries for Database Analysis
 
 - This repository contains a collection of SQL queries for analyzing data. These queries can be used for practice, interview preparation, or learning SQL.
 
-##SQL Queries
+## SQL Queries
 1. Data Retrieval
 Queries to fetch and filter data from a table.
 
