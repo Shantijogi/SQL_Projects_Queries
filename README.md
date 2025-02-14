@@ -1,6 +1,5 @@
-# SQL Queries for Database Analysis
-
-- This repository contains a collection of SQL queries for analyzing data. These queries can be used for practice, interview preparation, or learning SQL.
+# SQL Queries
+- This repository contains a collection of SQL queries for analyzing data(Basic, Intermediate and Advanced including joins, CTEs, stored procedures, views, index)
 
 ## SQL Queries
 1. Data Retrieval
@@ -40,3 +39,18 @@ Queries to modify data in tables.
 - INSERT: Add new records.
 - UPDATE: Modify existing records.
 - DELETE: Remove records.
+
+6. Stored Procedures
+
+- A Stored Procedure is a precompiled collection of SQL statements stored in the database.
+- It helps in automating repetitive tasks, improving performance, and ensuring code reusability.
+
+7. Views
+
+- A View in SQL is a virtual table that is created based on the result of a SQL query.
+- It does not store data itself but retrieves data dynamically from the underlying tables.
+
+8. User-Defined Functions (UDFs)
+
+- A User-Defined Function (UDF) is a custom function created by users to perform specific tasks in SQL.
+- Unlike stored procedures, UDFs must return a value and cannot modify database data (e.g., INSERT, UPDATE, DELETE).
